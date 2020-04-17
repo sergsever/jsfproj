@@ -1,2 +1,2 @@
 # jsfproj
-An Java Server Faces sample
+A Java Server Faces sample
